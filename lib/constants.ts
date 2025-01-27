@@ -1,0 +1,1 @@
+export const LEAGUES = ['NFL', 'MLB', 'NBA', 'NHL', 'MLS', 'WNBA', 'NCAAF', 'NCAAM', 'NCAAW'] as const;
