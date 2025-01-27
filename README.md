@@ -27,7 +27,9 @@ The goal is to create a great developer experience and consistency across the te
 
 ## Screen Walk Through
 
-https://github.com/user-attachments/assets/e8e9cbf7-d3dc-4c7d-af1c-a8fd260049e8
+https://github.com/user-attachments/assets/fec93d27-0675-4055-a5bd-686cfc25fb47
+
+
 
 
 ## Tech Used
