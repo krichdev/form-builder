@@ -1,8 +1,8 @@
-# Barstool Sports Schema Form Builder
+# Schema Form Builder
 
 ## Idea
 
-Almost every app or website will have forms, either a newsletter signup on the client facing website or a blog post editor in the internal team CMS. Going into this challenge, I put myself in the shoes of someone on a team that is going to have to code for a lot of forms. This led me to came up with the idea of creating a `Form Builder` that would be schema driven. This is not a new idea and there are tools that already do this like [React JSON Schema Form](https://rjsf-team.github.io/react-jsonschema-form/). However, I wanted to leverage Zod to handle the schema validation and Shadcn for the components.
+Almost every app or website will have forms, newsletter signups, a blog post editor, bug ticket creation, and many more. This led me to the idea of creating a `Form Builder` that would be schema driven, and easily reused and consumed by dev teams. This is not a new idea and there are tools that already do this, such as [React JSON Schema Form](https://rjsf-team.github.io/react-jsonschema-form/). However, I wanted to build something for myself that would leverage Zod for schema validation and Shadcn for components.
 
 To start, create the form's schema. IE: `@/schemas/newsletter-schema.ts`
 
