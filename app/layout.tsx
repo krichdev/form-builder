@@ -15,8 +15,8 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "Barstool Sports",
-  description: "Barstool Sports is a sports & pop culture blog covering the latest news and viral highlights of each and everyday with blogs, videos and podcasts.  By the common man, for the common man.",
+  title: "Schema Form Builder",
+  description: "Schema Form Builder is a tool that allows you to create forms using a schema.",
 };
 
 export default function RootLayout({
